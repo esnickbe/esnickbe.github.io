@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esnickbe.github.io/sitemap.html.gz
+Sitemap: https://esnickbe.github.io/app/sitemap.html.gz
+Sitemap: https://esnickbe.github.io/assets/sitemap.html.gz
+Sitemap: https://esnickbe.github.io/css/sitemap.html.gz
+Sitemap: https://esnickbe.github.io/data/sitemap.html.gz
+Sitemap: https://esnickbe.github.io/includes/sitemap.html.gz
+Sitemap: https://esnickbe.github.io/item/sitemap.html.gz
+Sitemap: https://esnickbe.github.io/src/sitemap.html.gz
